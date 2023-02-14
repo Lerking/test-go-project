@@ -29,7 +29,6 @@
 
 ![GitHub open pull requests](https://img.shields.io/github/issues-pr-raw/Lerking/test-go-project)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/Lerking/test-go-project)
-[![GitHub total-pull-requests](https://badgen.net/github/prs/Lerking/test-go-project)](https://GitHub.com/Lerking/test-go-project/pull)
 
 Coding time for the last 30 days.</br>
 [![wakatime](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/eeedbc52-8267-40a0-97bb-cf8aa6708c74.svg)](https://wakatime.com/badge/user/d43f2852-fd6f-45b4-b713-558ad18204d4/project/eeedbc52-8267-40a0-97bb-cf8aa6708c74)
