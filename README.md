@@ -10,7 +10,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/Lerking/test-go-project.svg)](https://github.com/Lerking/test-go-project/blob/master/LICENSE)
 
-[![GitHub version](https://badge.fury.io/gh/Lerking-test-go-project.svg)](https://github.com/Lerking/test-go-project)
+[![GitHub version](https://badge.fury.io/gh/Lerking%2Ftest-go-project.svg)](https://badge.fury.io/gh/Lerking%2Ftest-go-project)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Lerking/test-go-project.github.io/graphs/commit-activity)
 [![GitHub contributors](https://img.shields.io/github/contributors/Lerking/test-go-project.svg)](https://GitHub.com/Lerking/test-go-project/graphs/contributors/)
