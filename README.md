@@ -36,3 +36,6 @@ Coding time for the last 30 days.</br>
 
 See the wiki for usage and examples.
 [test-go-project wiki page](https://github.com/Lerking/test-go-project/wiki)
+
+Visitors since repo creation.</br>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lerking.golang-repo-template)
