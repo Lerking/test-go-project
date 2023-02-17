@@ -15,6 +15,8 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Lerking/test-go-project.github.io/graphs/commit-activity)
 [![GitHub contributors](https://img.shields.io/github/contributors/Lerking/test-go-project.svg)](https://GitHub.com/Lerking/test-go-project/graphs/contributors/)
 
+![example workflow](https://github.com/Lerking/test-go-project/actions/workflows/go.yml/badge.svg)
+
 ## Please join the discusion panel</br>
 ![GitHub Discussions](https://img.shields.io/github/discussions/Lerking/test-go-project)
 
